@@ -1,0 +1,7 @@
+C:\Users\micji\Desktop\CSHARP\Calculator1\Calculator1\bin\Debug\Calculator1.exe.config
+C:\Users\micji\Desktop\CSHARP\Calculator1\Calculator1\bin\Debug\Calculator1.exe
+C:\Users\micji\Desktop\CSHARP\Calculator1\Calculator1\bin\Debug\Calculator1.pdb
+C:\Users\micji\Desktop\CSHARP\Calculator1\Calculator1\obj\Debug\Calculator1.csproj.AssemblyReference.cache
+C:\Users\micji\Desktop\CSHARP\Calculator1\Calculator1\obj\Debug\Calculator1.csproj.CoreCompileInputs.cache
+C:\Users\micji\Desktop\CSHARP\Calculator1\Calculator1\obj\Debug\Calculator1.exe
+C:\Users\micji\Desktop\CSHARP\Calculator1\Calculator1\obj\Debug\Calculator1.pdb
